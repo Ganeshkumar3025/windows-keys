@@ -20,13 +20,13 @@ Index
   - [Preinstall Keys](#preinstall-keys)
 - [References](#references)
 
-Windows 11
+Windows 11 keys
 ==========
 
 RTM Generic Keys
 ----------------
 
-| Windows Version                      | Product Key                   |
+| Windows Version                      | Product Keys                  |
 |:-------------------------------------|:------------------------------|
 | Windows 11 Home                      | YTMG3-N6DKC-DKB77-7M9GH-8HVX7 |
 | Windows 11 Home N                    | 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW |
@@ -186,3 +186,5 @@ References
 - https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227
 - https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html
 - https://www.elevenforum.com/t/generic-product-keys-to-install-or-upgrade-windows-11-editions.3713/
+
+**This is created for educational porpous that IT and Computer science students can activate their windows keys easily and continue thwir windows jurney.**
